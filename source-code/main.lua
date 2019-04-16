@@ -1,7 +1,7 @@
 --[[
     slot machine game
     name: abhinav lakhani
-    3398akshu@gmail.com
+    3398abhinav@gmail.com
 ]]
 
 require 'constants'
